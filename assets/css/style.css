@@ -101,24 +101,24 @@ button:hover {
     justify-content: center;
 }
 
-.light {
+.black {
     font-weight: 100;
     color: rgb(152, 152, 152);
 }
 
-.options {
+.opcion {
     display: flex;
     width: 3em;
     justify-content: space-between;
     align-items: center;
 }
 
-.options a {
+.opcion a {
     font-size: 1.2em;
     color: rgb(152, 152, 152);
 }
 
-.options a:hover {
+.opcion a:hover {
     color: rgb(129, 128, 128);
 }
 
